@@ -1,0 +1,2 @@
+方法1：
+mySObjDescribe.getRecordTypeInfosByDeveloperName().get('Master'). getRecordTypeId()
