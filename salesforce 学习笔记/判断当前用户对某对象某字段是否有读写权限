@@ -1,0 +1,10 @@
+
+
+1、某对象
+
+Schema.DescribeSObjectResult mySObjDescribe = Contact.sObjectType.getDescribe();
+system.debug( mySObjDescribe.isCreateable());
+
+
+2、某字段
+Schema.sObjectType.Contact.fields.Email.isCreateable()
