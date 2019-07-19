@@ -1,0 +1,5 @@
+
+一、 使用Query Plan Tool 进行SOQL 分析：
+  1、In the Developer Console, click Help | Preferences
+  2、Set 'Enable Query Plan' to TRUE.
+https://help.salesforce.com/articleView?id=000334796&type=1&mode=1
