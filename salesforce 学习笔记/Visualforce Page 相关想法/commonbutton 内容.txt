@@ -1,0 +1,2 @@
+一、immediate 属性，据说能跳过页面验证规则？ 啥时试试
+A Boolean value that specifies whether the action associated with this component should happen immediately, without processing any validation rules associated with the fields on the page. If set to true, the action happens immediately and validation rules are skipped. If not specified, this value defaults to false.
