@@ -1,2 +1,4 @@
 方法1：
+
+Schema.DescribeSObjectResult mySObjDescribe = Contact.sObjectType.getDescribe();
 mySObjDescribe.getRecordTypeInfosByDeveloperName().get('Master'). getRecordTypeId()
