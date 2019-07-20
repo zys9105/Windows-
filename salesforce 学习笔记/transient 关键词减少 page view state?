@@ -1,0 +1,1 @@
+Declaring variables as transient reduces view state size. A common use case for the transient keyword is a field on a Visualforce page that is needed only for the duration of a page request, but should not be part of the page's view state and would use too many system resources to be recomputed many times during a request. 
