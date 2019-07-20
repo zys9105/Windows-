@@ -1,0 +1,5 @@
+company 为主
+
+Employee__c a =new Employee__c(Name='a');
+a.Company__r = new Company__c(Company_Id__c = 'b');
+insert a;
