@@ -71,6 +71,9 @@
 
 34、 腾讯会议
 
+35、GeForce Experience
+
+
 二、不太常用软件：
 1. Locale.Emulator
 安装说明：
