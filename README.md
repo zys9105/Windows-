@@ -73,6 +73,13 @@
 
 35、GeForce Experience
 
+36、steam；
+
+37、uplay；
+
+38、杉果游戏平台
+
+39、 jdk 11 
 
 二、不太常用软件：
 1. Locale.Emulator
